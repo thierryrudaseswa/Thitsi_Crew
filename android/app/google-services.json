@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842565586303",
+    "project_id": "thitsi-crew",
+    "storage_bucket": "thitsi-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842565586303:android:c6524c0e4f6a4dd74a1e4a",
+        "android_client_info": {
+          "package_name": "com.example.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANakG9-K7xvnzZR7Iv60gxEE13m0wJXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
