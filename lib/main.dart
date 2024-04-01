@@ -13,8 +13,8 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Text("thierry"),
+    return MaterialApp(
+      home: Wrapper(),
     );
   }
 }
